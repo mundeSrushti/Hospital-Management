@@ -1,2 +1,2 @@
 # Hospital-Management
-this is a project of Hospital Management system
+This is a project of Hospital Management System
